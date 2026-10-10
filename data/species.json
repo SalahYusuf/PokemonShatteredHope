@@ -1,0 +1,17 @@
+{
+  "RALTS": {
+    "name": "Ralts", "types": ["PSYCHIC", "FAIRY"],
+    "base_stats": {"hp": 28, "atk": 25, "def": 25, "spa": 45, "spd": 35, "spe": 40},
+    "abilities": ["SYNCHRONIZE", "TRACE"], "evolves_to": "GARDEVOIR"
+  },
+  "GARDEVOIR": {
+    "name": "Gardevoir", "types": ["PSYCHIC", "FAIRY"],
+    "base_stats": {"hp": 68, "atk": 65, "def": 65, "spa": 125, "spd": 115, "spe": 80},
+    "abilities": ["SYNCHRONIZE", "TRACE"], "mega_form": "GARDEVOIR_MEGA"
+  },
+  "GARDEVOIR_MEGA": {
+    "name": "Mega Gardevoir", "types": ["PSYCHIC", "FAIRY"],
+    "base_stats": {"hp": 68, "atk": 85, "def": 65, "spa": 165, "spd": 135, "spe": 100},
+    "abilities": ["PIXILATE"], "base_form": "GARDEVOIR"
+  }
+}
